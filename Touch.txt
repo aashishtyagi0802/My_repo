@@ -1,4 +1,4 @@
-#####  This is the Touch Sensor Project   #############
+#####  This is the Touch Sensor Project   ##############
 
 
 import RPi.GPIO as GPIO
